@@ -10,3 +10,5 @@
 - python functions and recursion
 - backtracking basics
 - basic printing/formatting
+
+p.s. the test.py file is unrelated to the actual project, it was just me messing around with different function parameters and arguments
