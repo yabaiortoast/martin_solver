@@ -1,6 +1,6 @@
 * TODO program martin solver
   - [x] make a graph dictionary 
-  - [x] set up checker (is_valid_assignment())
+  - [x] set up checker (checker(...))
   - [x] set up solve() recursion
   - [x] print solution
 
