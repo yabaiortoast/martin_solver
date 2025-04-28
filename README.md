@@ -1,7 +1,7 @@
 * TODO program martin solver
   - [x] make a graph dictionary 
-  - [x] set up checker (checker(...))
-  - [x] set up solve() recursion
+  - [x] set up checker (checker(...)) with backtracking and recursion
+  - [x] set up solver(...) 
   - [x] print solution
 
 # stuff to learn
